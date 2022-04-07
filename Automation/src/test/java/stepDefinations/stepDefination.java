@@ -38,4 +38,10 @@ public class stepDefination {
 	    public void check_more_outcomes() throws Throwable {
 	    	  System.out.println("sucessfullay automated the page");
 	    } 
+	    @Then("print the Test complited")
+	    public void print_the_test_complited() {
+	        // Write code here that turns the phrase above into concrete actions
+	        
+	        System.out.println("sucessfullay automated the page");
+	    }
 }

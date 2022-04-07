@@ -28,6 +28,7 @@ Feature: Application Login
     And yet another action
     Then Home page is populated "true"
     And check more outcomes
+    And print the Test complited
     
     
    Scenario: Home Page Default Login
